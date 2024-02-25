@@ -1,1 +1,1 @@
-console.log("18")
+console.log("install")
