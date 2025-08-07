@@ -1,4 +1,4 @@
 add read
 npm install
-npm start
+npm start1
 
